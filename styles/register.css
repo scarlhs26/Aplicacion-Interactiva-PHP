@@ -1,0 +1,81 @@
+.section-registro{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EFEFEF;
+
+}
+.div-registro{
+    width: 400px;
+    height: 510px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.div-logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.form-registro{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 10px 0px;
+}
+.input-svg{
+    background-repeat: no-repeat;
+    background-position: 5px center; /* Ajusta la posición del ícono dentro del input */
+    background-size: 15px;
+    padding: 10px 25px;
+    border: 1px solid #b0b0b0;
+    border-radius: 3px;
+    outline: none; 
+    background-image: url('../assets/user.svg'); /* Ruta al archivo SVG */ 
+}
+.input-svg-key{
+    background-repeat: no-repeat;
+    background-position: 5px center; /* Ajusta la posición del ícono dentro del input */
+    background-size: 15px;
+    padding: 10px 25px;
+    border: 1px solid #b0b0b0;
+    border-radius: 3px;
+    outline: none; 
+    background-image: url('../assets/key.svg'); /* Ruta al archivo SVG */
+}
+.input-svg-mail{
+    background-repeat: no-repeat;
+    background-position: 5px center; /* Ajusta la posición del ícono dentro del input */
+    background-size: 15px;
+    padding: 10px 25px;
+    border: 1px solid #b0b0b0;
+    border-radius: 3px;
+    outline: none; 
+    background-image: url('../assets/mail.svg'); /* Ruta al archivo SVG */
+}
+
+.input-svg-key:focus {
+    border: 1px solid #b0b0b0;
+    border-radius: 3px;
+}
+.a-registrate{
+    color: #246765;
+    font-weight: bold;
+    
+}
+.p-registrate{
+    margin-top: 20px;
+}
+
+
+.div-mensaje{
+    height: 20px;
+    width: 280px;
+}
