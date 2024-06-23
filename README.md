@@ -27,4 +27,13 @@ La interfaz de usuario se caracteriza por su simplicidad, diseñada para destaca
 Para iniciar la aplicación PHP, es esencial tener XAMPP instalado en tu sistema. Debes asegurarte de que Apache y MySQL estén activos desde el panel de control de XAMPP. El proyecto debe ubicarse dentro del directorio htdocs, que es el directorio de trabajo predeterminado de XAMPP. Una vez configurado, accede al panel de administración de Apache ingresando http://localhost en tu navegador. Sustituye "Dashboard" por el nombre de la carpeta donde se encuentra tu proyecto para acceder y visualizar tu aplicación en el navegador local.
 
 ## 🖼 interfaz y experiencia de usuario:
+- **Registro:**
+![Feed del usuario](imagenes/registro.PNG)
+- **Login:**
+![Feed del usuario](imagenes/login.PNG)
+- **Feed del Usuario:**
+![Feed del usuario](imagenes/feed.PNG)
+- **Feed del Usuario:**
+![Feed del usuario](imagenes/recuContrase.PNG)
+
 
