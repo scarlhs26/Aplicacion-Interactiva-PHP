@@ -1,4 +1,4 @@
-#💫 Red Social Interactiva con PHP (Stack LAMP)💫
+# 💫Red Social Interactiva con PHP (Stack LAMP)💫
 Esta aplicación fue desarrollada con el objetivo de poner en práctica mis habilidades en el desarrollo web utilizando el lenguaje de programación PHP. Está diseñada para gestionar usuarios mediante una base de datos relacional, donde se almacena la información de los usuarios registrados. Además del registro, se implementa un sistema de login que genera y almacena tokens para la autenticación de sesiones.
 La aplicación permite gestionar diversas funcionalidades, incluyendo publicaciones y comentarios, todos almacenados y gestionados de manera eficiente en la base de datos. Aunque está optimizada para pantallas de escritorio de diferentes tamaños, actualmente no cuenta con soporte para dispositivos móviles.
 La interfaz de usuario se caracteriza por su simplicidad, diseñada para destacar las funcionalidades implementadas y asegurar un uso fluido y efectivo de la aplicación. El proyecto tiene como objetivo principal demostrar el funcionamiento adecuado de las funcionalidades implementadas.
@@ -22,7 +22,7 @@ La interfaz de usuario se caracteriza por su simplicidad, diseñada para destaca
 - **Cerrar sesión:** Se elimina el token del usuario que estaba previamente logueado.
 - **Publicaciones:** El usuario podrá hacer publicaciones y otros usuarios podran interactuar.
 - **Comentarios:** El usuario podra hacer comentarios dentro de las publicaciones que desee.
-- 
+  
 ## ⚙ Inicialización:
 Para iniciar la aplicación PHP, es esencial tener XAMPP instalado en tu sistema. Debes asegurarte de que Apache y MySQL estén activos desde el panel de control de XAMPP. El proyecto debe ubicarse dentro del directorio htdocs, que es el directorio de trabajo predeterminado de XAMPP. Una vez configurado, accede al panel de administración de Apache ingresando http://localhost en tu navegador. Sustituye "Dashboard" por el nombre de la carpeta donde se encuentra tu proyecto para acceder y visualizar tu aplicación en el navegador local.
 
